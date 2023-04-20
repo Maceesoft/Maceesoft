@@ -1,4 +1,4 @@
-<h1>Soluciones Profesionales de Desarollo Multi-Plataforma</h1>
+<h1>Soluciones Profesionales en Desarollo Multi-Plataforma</h1>
 <h4>Mobile</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
   <img src="https://download.maceesoft.com/files/git/images/flutter.svg"  width="50"height="50">
