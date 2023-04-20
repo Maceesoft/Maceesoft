@@ -9,6 +9,7 @@
  </div>
  <h4>Desktop</h4>
  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50" height="50">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" width="50" height="50">
 
 <!--
 **Maceesoft/Maceesoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
