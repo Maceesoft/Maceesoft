@@ -1,5 +1,5 @@
 <h1>Soluciones Profesionales de Desarollo Multi-Plataforma</h1>
-- <h4>Mobile
+- <h4>Mobile</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
   <img src="https://www.svgrepo.com/show/353751/flutter.svg"  width="50"height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" width="50" height="50">
