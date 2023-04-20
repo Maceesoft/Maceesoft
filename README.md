@@ -1,6 +1,8 @@
 ### Hi there 👋
 👯 I’m looking to collaborate on ...
 
+<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="600" height="300">
+
 <!--
 **Maceesoft/Maceesoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
