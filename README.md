@@ -17,7 +17,7 @@
   <img src="https://download.maceesoft.com/files/git/images/html.svg" width="50" height="50">
   <img src="https://download.maceesoft.com/files/git/images/angular.svg" width="50" height="50">
   <img src="https://download.maceesoft.com/files/git/images/react.svg" width="50" height="50">
-  <img src="https://download.maceesoft.com/files/git/images/netCore.png" width="50" height="50">
+  <img src="https://download.maceesoft.com/files/git/images/netCore.png" width="54" height="50">
  </div>
 
 <!--
