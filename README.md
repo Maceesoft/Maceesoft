@@ -11,7 +11,13 @@
  <div style="display: flex; flex-wrap: wrap; gap: 10px">
  <img src="https://download.maceesoft.com/files/git/images/c-sharp.svg" width="50" height="50">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" width="50" height="50">
-  </div>
+ </div>
+ <h4>Web</h4>
+ <div>
+  <img src="https://download.maceesoft.com/files/git/images/html.svg" width="50" height="50">
+  <img src="https://download.maceesoft.com/files/git/images/angular.svg" width="50" height="50">
+  <img src="https://download.maceesoft.com/files/git/images/react.svg" width="50" height="50">
+ </div>
 
 <!--
 **Maceesoft/Maceesoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
